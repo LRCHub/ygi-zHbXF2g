@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ブレス",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-07T03:43:51.603203Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ブレス",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_ブレス_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ブレス",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/02_ブレス_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ブレス",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/03_ブレス_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ブレス",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/04_ブレス_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ブレス・ユア・ブレス",
+      "artist": "和田たけあき feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/05_ブレス・ユア・ブレス_和田たけあき_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ブレス - Breath",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/06_ブレス_-_Breath_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ブレス・ユア・ブレス",
+      "artist": "和田たけあき",
+      "has_synced": true,
+      "path": "select/07_ブレス・ユア・ブレス_和田たけあき.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ブレス",
+      "artist": "PornoGraffitti",
+      "has_synced": true,
+      "path": "select/08_ブレス_PornoGraffitti.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ブレス",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/09_ブレス_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブレス",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_ブレス_RADWIMPS.txt"
+    }
+  ]
+}
